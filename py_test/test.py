@@ -127,7 +127,7 @@ print("あなたの手は"+my_hand)
 print("相手の手は"+com_hand)
 print("あなたは"+result)
 
-    
+# 参上！！  
 
 
      
