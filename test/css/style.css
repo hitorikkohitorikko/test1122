@@ -1,0 +1,69 @@
+/* /* h1{
+    color:aqua;
+}
+h1{
+    color: pink;
+}
+
+.pink{
+    color: pink;
+}
+.green{
+    color: green;
+/* } 
+
+
+    
+     */
+/* .block1{
+    background-color: red;
+    height: 50px;
+    width: 50px;
+}
+.block2{
+    background-color: blueviolet;
+    height: 50px;
+    width: 50px;
+}
+a{
+    background-color: yellowgreen;
+    height: 50px;
+    width: 50px;
+    display: block;
+}
+.dn{
+    background-color: brown;
+    display: none;
+}
+.vh{
+    background-color: darkslategrey;
+    visibility: hidden;
+} */
+/* h1{
+    color: red;
+}
+.flexbox{
+    display: flex;
+    justify-content: space-between
+}
+.flexbox p{
+    background-color: violet;
+    height: 50px;
+    width: 50px;
+} */
+
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+.box{
+    width: 120px;
+    height: 120px ;
+    text-align: center;
+    border: 2px black solid;
+}
+p{
+    color: white;
+}
